@@ -1,4 +1,4 @@
-[provapratica3.1.py](https://github.com/user-attachments/files/33453128/provapratica3.1.py)# L-gica-de-programa-o
+ Logica-de-programação
 Utilizo da linguagem Python para começar o aprendizado em programação, uma linguagem básica mas que abre caminhos para as demais linguagens dessa área. Até o momento, já entendo e utilizo os comandos while Thue, (if,elif,else), for..in range e def.
 ct = 0
 print('Numeros naturais')
